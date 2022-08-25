@@ -20,4 +20,4 @@ The code uses resnet18 to figure out patterns within the images that I provide. 
 4. After it is downloaded, you will need to go to the jupyter notebook that has been already been opened in your browser. You will need to run everything in order, and in the interactable box that pops up, you will need to load the model from where you have downloaded it.
 5. And finally, you can use the indentifier as intended! Try pointing your camera at a penny or quarter!
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/oLC2Z0s6jPY)
