@@ -1,11 +1,11 @@
 # Coin identifier
 
-Live currency identifier through video
-https://imgur.com/uTBTJau
+Live currency identifier through video 
+[View an example image here.](https://imgur.com/uTBTJau)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The code uses resnet18 to figure out patterns within the images that I provide. After training it to specifically look at the differences in the coins, I had it display the type of coin, along with its value in another box.
 
 ## Running this project
 
