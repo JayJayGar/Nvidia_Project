@@ -1,6 +1,6 @@
 # Coin identifier
 
-Live currency identifier through video 
+Live currency identifier through video. 
 [View an example image here.](https://imgur.com/uTBTJau)
 
 ## The Algorithm
