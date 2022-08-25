@@ -1,6 +1,6 @@
 # Coin identifier
 
-Live currency identifier through video
+Live currency identifier through video.
 
 [View an example image here.](https://imgur.com/uTBTJau)
 
@@ -10,7 +10,7 @@ The code uses resnet18 to figure out patterns within the images that I provide. 
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Download the ipny file
+2. Navigate to 
 
 [View a video explanation here](video link)
